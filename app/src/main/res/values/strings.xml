@@ -4,4 +4,7 @@
     <string name="video_title">Video</string>
     <string name="live_title">Live</string>
     <string name="me_title">Me</string>
+    <string name="user_name">User</string>
+    <string name="followers">Followers</string>
+    <string name="likes">Likes</string>
 </resources>

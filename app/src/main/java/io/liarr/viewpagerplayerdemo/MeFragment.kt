@@ -14,6 +14,4 @@ class MeFragment : Fragment() {
     ): View? {
         return inflater.inflate(R.layout.fragment_me, container, false)
     }
-
-
 }
