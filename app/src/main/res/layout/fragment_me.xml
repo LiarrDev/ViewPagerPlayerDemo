@@ -25,7 +25,8 @@
             android:layout_alignParentBottom="true"
             android:layout_marginStart="32dp"
             android:layout_marginBottom="32dp"
-            android:src="@drawable/profile" />
+            android:src="@drawable/profile"
+            tools:srcCompat="@tools:sample/avatars" />
 
         <TextView
             android:layout_width="wrap_content"

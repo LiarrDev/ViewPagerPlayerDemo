@@ -1,15 +1,15 @@
 package io.liarr.viewpagerplayerdemo
 
 val videoUrls = listOf(
-    "https://v26-web.douyinvod.com/6e47c8c4fcaadee64d36187b583f68c1/6245505e/video/tos/cn/tos-cn-ve-15c001-alinc2/a7295275411d4cc5b43b2edc4677546c/",
-    "https://v26-web.douyinvod.com/292ed3de285dd926c832e5b20a01d6d7/6245506f/video/tos/cn/tos-cn-ve-15c001-alinc2/9ef57ae9b0dc47e0927196c7c593aa1b/",
-    "https://v26-web.douyinvod.com/03655bb94780a28e3d0e9ac04f0c06ea/624550cc/video/tos/cn/tos-cn-ve-15-alinc2/c2a1c0d0b6874e7d9f4f60c571af1863/",
-    "https://v26-web.douyinvod.com/d03b89d9326c2cb935dba36024b67225/6245505f/video/tos/cn/tos-cn-ve-15c001-alinc2/9450702187d841a29dd9dbed5ae8350d/",
-    "https://v26-web.douyinvod.com/09b8dab6be7dcfa713ad60eaee6d91b0/62455098/video/tos/cn/tos-cn-ve-15c001-alinc2/faf67c179689467ea1d530ae8df9282f/",
-    "https://v26-web.douyinvod.com/061d1b8a0883c8c03bfdf72b0f8cc38d/624550c5/video/tos/cn/tos-cn-ve-15c001-alinc2/62ec8ed6e42d412a842e8a18b082fdbf/",
-    "https://v26-web.douyinvod.com/559169c1a122101b7328f28bd11d8989/62455093/video/tos/cn/tos-cn-ve-15c001-alinc2/61eb28b5cfc4411d8903afacb7940868/",
-    "https://v26-web.douyinvod.com/c6d469d7a7c302dff81137de956cb496/624550c2/video/tos/cn/tos-cn-ve-15c001-alinc2/f9d1b545c83f467ea9836f4b69270192/",
-    "https://v26-web.douyinvod.com/5d2a3b46e366c561b846e3fdf7e64ad1/62455094/video/tos/cn/tos-cn-ve-15c001-alinc2/515d54436703458380767aef76592b5b/",
-    "https://v26-web.douyinvod.com/cd7f41ea1860081b7ba08cba7ba589f8/624552f6/video/tos/cn/tos-cn-ve-15c001-alinc2/eba19c02f53142b8a7d24f5314637cdb/",
-    "https://v26-web.douyinvod.com/bb2251060fc5e2a68daeda866b06f2f0/624550a2/video/tos/cn/tos-cn-ve-15c001-alinc2/cf147b5edbb14b8393c7b15d13ae9a7a/"
+    "https://v26-web.douyinvod.com/5effb826c37e2521d3186819084c70ae/62457750/video/tos/cn/tos-cn-ve-15c001-alinc2/18394f9f9a064853bbbde8b130431d9d/",
+    "https://v26-web.douyinvod.com/a8f2fa7d1bad9b5c8993a6e3ab198dde/6245780f/video/tos/cn/tos-cn-ve-15c001-alinc2/2beac31370f84766b0f95b1936003c64/",
+    "https://v26-web.douyinvod.com/48780608f8af1af10eaa3cc14940046f/62457757/video/tos/cn/tos-cn-ve-15c001-alinc2/5c37af01145e488e99022552609c76d4/",
+    "https://v26-web.douyinvod.com/8613bf9d0a0d0edc2b6840a490f8d978/624577ed/video/tos/cn/tos-cn-ve-15c001-alinc2/d1b0a726f6a0487587537b2d9a4e2653/",
+    "https://v26-web.douyinvod.com/62ca1a071f61b1fc8ac8c7ab8c44853a/62457746/video/tos/cn/tos-cn-ve-15c001-alinc2/dafd91e5c67840fb933e9c1c4f6f2cb5/",
+    "https://v26-web.douyinvod.com/f1993b39bf8aea916455b12b9ec8aaa4/624577e9/video/tos/cn/tos-cn-ve-15c001-alinc2/78604c09c9734b508bed3cdacb8ca9c8/",
+    "https://v26-web.douyinvod.com/79ff49e70cbb7a1d9836bac1482b1168/62457757/video/tos/cn/tos-cn-ve-15c001-alinc2/a2e0800c0e0f472aa1cb9dc8090c7ef3/",
+    "https://v26-web.douyinvod.com/aacde0ff090be4386b5c24a056b8d98b/6245775c/video/tos/cn/tos-cn-ve-15c001-alinc2/25cca32e279641e787677df9304f2463/",
+    "https://v26-web.douyinvod.com/eb5ae16a3b46b2d609d15dedaf7d789e/62457788/video/tos/cn/tos-cn-ve-15c001-alinc2/e4478028659f45839ba85de1bb615c9e/",
+    "https://v26-web.douyinvod.com/dd629dace801ad95e63ea410d7e5f416/62457763/video/tos/cn/tos-cn-ve-15c001-alinc2/8f1b5874dac2431a9c66f6c10fc30ad7/",
+    "https://v26-web.douyinvod.com/d954d0ab102fc421e0bcbdd4eb3ab302/62457765/video/tos/cn/tos-cn-ve-15c001-alinc2/da99046983664335a68c7506f0507067/"
 )
